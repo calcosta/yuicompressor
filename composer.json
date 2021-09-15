@@ -1,5 +1,5 @@
 {
-    "name": "contempory/yuicompressor",
+    "name": "calcosta/yuicompressor",
     "description": "The YUI Compressor is a JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name.",
     "homepage": "http://yui.github.io/yuicompressor",
     "license": "BSD",
